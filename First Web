@@ -1,0 +1,20 @@
+echo "# Lion-Picture" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/a10park/Lion-Picture.git
+git push -u origin master
+<head>
+		<title>SEVENTEEN</title>
+		<style type="text/css">
+	           body {
+			border-style: solid;
+			border-color: red;
+			border-width: medium;
+			backround-image: url("https://png.pngtree.com/thumb_back/fh260/back_pic/00/15/30/4656e81f6dc57c5.jpg");
+     }
+</style>
+</head>
+<body>
+	<p>SC-JG-JS-JH-SY-WW-JH-MH-MG-SM-SK-HS-CH</p>
+</body>
